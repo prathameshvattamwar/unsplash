@@ -19,10 +19,6 @@
 <h2>Mobile View</h2>
 <img src="https://i.imgur.com/yXxsZU0.png"/>
 <br><br>
-<h4>Click on below image for output video of this project</h4>
-<br><br>
-
-[![Watch the video](https://i.imgur.com/GDspDeQ.png)](https://i.imgur.com/iJ3ODgF.mp4)
 
 
 <h3>Follow me for more mini project ideas and free code access : <a href="https://github.com/prathameshvattamwar">Click here to follow</a></h3>
